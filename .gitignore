@@ -1,6 +1,4 @@
-trainingCSharp/bin
-trainingCSharp/obj
-test_trainingCSharp/bin
-test_trainingCSharp/obj
+*/bin
+*/obj
 ./*/bin
 ./*/obj
